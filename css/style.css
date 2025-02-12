@@ -189,7 +189,7 @@ a{
 
 #about {
     padding: 50px 0;
-    background: url('https://files.oaiusercontent.com/file-KTmcPvgDjt85dA4RgjeNtS?se=2025-02-12T08%3A32%3A41Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D3a647075-202c-4615-9b9f-7792e6c6a461.webp&sig=%2Bu/xgAinydpSZ5eEipybCCzgGMD/B1c7E4HwHI8xUeM%3D');
+    background: url('/about.webp');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
